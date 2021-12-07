@@ -1,6 +1,6 @@
 # GreedySchedulingSystems
 # Documentation
-This repository contains the Java code for the Greedy Scheduling Algorithms project for Gatech 3012 Applied Combinatorics.
+This repository contains the Java code for the Greedy Scheduling Algorithms project for GaTech 3012 Applied Combinatorics.
 
 Authors: Omer Mujawar, Jon Liu, Aryan Shah
 
